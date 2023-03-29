@@ -1,7 +1,7 @@
 # Barreras_python
 
 ### Francisco Ogando (2021-0160)
-[Link explicación del código]()
+[Link explicación del código](https://miucateciedu-my.sharepoint.com/personal/20210160_miucateci_edu_do/_layouts/15/onedrive.aspx?login_hint=20210160%40miucateci%2Eedu%2Edo&id=%2Fpersonal%2F20210160%5Fmiucateci%5Fedu%5Fdo%2FDocuments%2FLab%20sist%20operativo%2FExplicaci%C3%B3n%5FBarreras%2Eavi&parent=%2Fpersonal%2F20210160%5Fmiucateci%5Fedu%5Fdo%2FDocuments%2FLab%20sist%20operativo)
 
 *Esta es mi documentación sobre el bloque de código que usted dejó Lizandro acerca de las barreras en python, primero se importa el módulo de hilos de Python y la función sleep del módulo de tiempo. Además, se define un objeto mutex (bloqueo mutuo) que se usa para sincronizar el acceso a una variable compartida.*
 
